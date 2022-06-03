@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William Turner"
 title_separator          : "-"
 name                     : &name "William Turner"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Postdoctoral Researcher in Cognitive Neuroscience"
 url                      : https://bootstrapbill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bootstrapbill/bootstrapbill.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "William Turner"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "Melbourne, Australia"
+  bio              : "Postdoctoral Researcher in Cognitive Neuroscience"
+  location         : "The University of Melbourne"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.au/citations?user=bFa2wDsAAAAJ&hl=en"
