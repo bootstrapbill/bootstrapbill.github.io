@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral research fellow in cognitive neuroscience at The University of Melbourne. I use neurophysiological (EEG), computational, and behavioural approachs to study how our brains make sense of visual information. My current work focusses on predictive delay-compensation mechanisms. These enable us to feel as if we are living in the present moment, rather than lagging behind the world, despite neural transmission and sensory processing delays.
-
-I work in the [Timing Lab](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing) at The University of Melbourne with [Hinze Hogendoorn](https://scholar.google.com/citations?user=uOh2Ik0AAAAJ&hl=en&inst=4522501446918153378&oi=ao). 
-
-Previously, I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) under the supervision of [Stefan Bode](https://scholar.google.com/citations?user=nPX76iMAAAAJ&hl=en&oi=ao) and [Rob Hester](https://scholar.google.com/citations?hl=en&user=vma8HZ0AAAAJ) investigating perceptual decision making and metacognition.
+I'm a postdoctoral research fellow in cognitive neuroscience at The University of Melbourne. I use neurophysiological (EEG), computational, and behavioural approachs to study how our brains make sense of visual information. My current work focusses on predictive delay-compensation mechanisms. These enable us to feel as if we are living in the present moment, rather than lagging behind the world, despite neural transmission and sensory processing delays. I work in the [Timing Lab](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing) at The University of Melbourne with [Hinze Hogendoorn](https://scholar.google.com/citations?user=uOh2Ik0AAAAJ&hl=en&inst=4522501446918153378&oi=ao). Previously, I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) under the supervision of [Stefan Bode](https://scholar.google.com/citations?user=nPX76iMAAAAJ&hl=en&oi=ao) and [Rob Hester](https://scholar.google.com/citations?hl=en&user=vma8HZ0AAAAJ) investigating perceptual decision making and metacognition.
 
 ___
 
-###Publications
+### Publications
 
 1. Ko, Feuerriegel, **Turner**, Overhoff, Niessen, Stahl, Hester, Fink, Weiss, & Bode (2022). Divergent effects of absolute evidence magnitude on decision accuracy and confidence in perceptual judgements. *Cognition*. [Link](https://www.sciencedirect.com/science/article/pii/S0010027722001135?dgcid=coauthor) [Code + data](https://osf.io/r8vfx/) 
 
