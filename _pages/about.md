@@ -17,11 +17,11 @@ ___
 ### Publications
 
 <img style="float: right;" src="../images/paper_img_01.png" width = 40>
-Ko, Feuerriegel, **Turner**, Overhoff, Niessen, Stahl, Hester, Fink, Weiss, & Bode (2022). Divergent effects of absolute evidence magnitude on decision accuracy and confidence in perceptual judgements. *Cognition*. <a href="../files/Ko_et_al_2022.pdf"><i class="fa-solid fa-file-pdf"></i> [Journal Link](https://www.sciencedirect.com/science/article/pii/S0010027722001135?dgcid=coauthor) | [Code + data](https://osf.io/r8vfx/) 
+Ko, Feuerriegel, **Turner**, Overhoff, Niessen, Stahl, Hester, Fink, Weiss, & Bode (2022). Divergent effects of absolute evidence magnitude on decision accuracy and confidence in perceptual judgements. *Cognition*. <a href="../files/Ko_et_al_2022.pdf"><i class="fa-solid fa-file-pdf"></i> | [Journal Link](https://www.sciencedirect.com/science/article/pii/S0010027722001135?dgcid=coauthor) | [Code + data](https://osf.io/r8vfx/) 
 
 
 <img style="float: right;" src="../images/paper_img_02.png" width = 40>
-**Turner** (2022). Unravelling the neural mechanisms which encode rapid streams of visual input. *The Journal of Neuroscience*. [Paper](../files/Turner_2022.pdf) | [Journal Link](https://www.jneurosci.org/content/42/7/1170)
+**Turner** (2022). Unravelling the neural mechanisms which encode rapid streams of visual input. *The Journal of Neuroscience*. <a href="../files/Turner_2022.pdf"><i class="fa-solid fa-file-pdf"></i> | [Journal Link](https://www.jneurosci.org/content/42/7/1170)
 
 
 <img style="float: right;" src="../images/paper_img_03.png" width = 40">
