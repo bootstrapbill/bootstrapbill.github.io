@@ -24,7 +24,7 @@ ___
 
 4. Feuerriegel, Jiwa, **Turner**, Andrejević, Hester, Bode (2021). Tracking dynamic adjustments to decision making and performance monitoring processes in conflict tasks. *NeuroImage*. <a href="../files/Feuerriegel_et_al_2021.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S1053811921005413"><i class="fas fa-link"></i></a> <a href="https://osf.io/eucqf/"><i class="fas fa-code"></i></a>
 
-5. Andrejević, Feuerriegel, **Turner**, Laham, Bode (2021). How do Basic Personality Traits Map onto Moral Judgements of Fairness-related Actions. *Social Psychology and Personality Science*. <a href="../files/Andrejevic_et_al_2020_1.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://journals.sagepub.com/doi/abs/10.1177/19485506211038295"><i class="fas fa-link"></i></a> <a href="https://t.co/LLbTuAhtNc"><i class="fas fa-code"></i></a>
+5. Andrejević, Feuerriegel, **Turner**, Laham, Bode (2021). How do Basic Personality Traits Map onto Moral Judgements of Fairness-related Actions. *Social Psychology and Personality Science*. <a href="../files/Andrejevic_et_al_2020.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://journals.sagepub.com/doi/abs/10.1177/19485506211038295"><i class="fas fa-link"></i></a> <a href="https://t.co/LLbTuAhtNc"><i class="fas fa-code"></i></a>
 
 6. **Turner**, Angdias, Feuerriegel, Chong, Hester, & Bode (2021). Perceptual decision confidence is sensitive to foregone effort expenditure. *Cognition*. <a href="../files/Turner_et_al_2021.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0010027720303449"><i class="fas fa-link"></i></a> <a href="https://osf.io/cg74z/"><i class="fas fa-code"></i></a>
 
