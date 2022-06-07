@@ -22,6 +22,7 @@ ___
 <img style="float: right;" src="../images/paper_img_02.png" width = 60 hspace = 5>
 2\. **Turner** (2022). Unravelling the neural mechanisms which encode rapid streams of visual input. *The Journal of Neuroscience*. <a href="../files/Turner_2022.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.jneurosci.org/content/42/7/1170"><i class="fas fa-link"></i></a> 
 
+<img style="float: right;" src="../images/paper_img_03.png" width = 60 hspace = 5>
 3\. **Turner**, Feuerriegel, Hester & Bode (2022). Initial sensory information biases the likelihood and speed of subsequent changes of mind. *PLOS Computational Biology*. <a href="../files/Turner_et_al_2022.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009738"><i class="fas fa-link"></i></a> <a href="https://osf.io/a6u4n/"><i class="fas fa-code"></i></a> 
 
 <img style="float: right;" src="../images/paper_img_05.png" width = 60 hspace = 5>
