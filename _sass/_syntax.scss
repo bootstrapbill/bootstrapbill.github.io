@@ -28,7 +28,6 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    word-wrap: break-word;
     font-size: $type-size-syntax;
     line-height: 1.8;
   }
@@ -37,7 +36,10 @@ div.highlighter-rouge, figure.highlight {
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 
-
+.highlight {
+    word-break: break-all;
+    white-space: normal;}
+    
 /*
    Solarized Light
    http://ethanschoonover.com/solarized
