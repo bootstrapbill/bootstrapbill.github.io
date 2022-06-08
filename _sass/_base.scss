@@ -133,7 +133,8 @@ pre {
 }
 
 pre {
-    word-wrap: break-word; /* wrap overflowing text */
+  white-space: normal; /* avoid having a long scroll bar by wrapping*/
+  word-wrap: break-word;
   }
 
 p > code,
