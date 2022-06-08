@@ -130,8 +130,6 @@ tt, code, kbd, samp, pre {
 
 pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
-  white-space: normal; /* WT inserted: trying to wrap code to avoid long scroll*/
-  word-wrap: break-word; /* WT inserted: trying to wrap code to avoid long scroll*/
 }
 
 p > code,
