@@ -31,15 +31,11 @@ div.highlighter-rouge, figure.highlight {
     font-size: $type-size-syntax;
     line-height: 1.8;
   }
-  .force-word-wrap pre code {
-     white-space: normal;
-     word-wrap: break-word;
-  }
 }
 
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
-    
+
 /*
    Solarized Light
    http://ethanschoonover.com/solarized
