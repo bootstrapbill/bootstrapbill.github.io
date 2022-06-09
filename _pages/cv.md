@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-### Curriculum Vitae
-
 My CV can be found [here](../files/Turner_CV_2022_Full.pdf).
