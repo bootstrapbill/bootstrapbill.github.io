@@ -17,7 +17,7 @@ ___
 ### Publications
 
 
-1. **Turner** (2022). Perceiving the probable present. *Nature Reviews Psychology*  <a href="https://rdcu.be/cZkFo"></i></a> <a href="https://www.nature.com/articles/s44159-022-00137-w"><i class="fas fa-link"></i></a> 
+1. **Turner** (2022). Perceiving the probable present. *Nature Reviews Psychology*  <a href="https://rdcu.be/cZkFo"><i class="fas fa-file-pdf"></i></a> <a href="https://www.nature.com/articles/s44159-022-00137-w"><i class="fas fa-link"></i></a> 
 
 2. Ko, Feuerriegel, **Turner**, Overhoff, Niessen, Stahl, Hester, Fink, Weiss, & Bode (2022). Divergent effects of absolute evidence magnitude on decision accuracy and confidence in perceptual judgements. *Cognition*. <a href="../files/Ko_et_al_2022.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0010027722001135?dgcid=coauthor"><i class="fas fa-link"></i></a> <a href="https://osf.io/r8vfx/"><i class="fas fa-code"></i></a> 
 
