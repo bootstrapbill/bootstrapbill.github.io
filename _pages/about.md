@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm a postdoctoral research fellow in cognitive neuroscience at Queensland University of Technology (QUT). I use neurophysiological (EEG), behavioural, and computational approaches to study how our brains make sense of visual information. My current work focusses on the neural mechanisms which enable the accurate localisation of moving objects under neural delays. 
+Hello! I'm a postdoctoral research fellow in cognitive neuroscience at Queensland University of Technology (QUT). I use neurophysiological, behavioural, and computational approaches to study how our brains make sense of sensory information. My current work focusses on the neural mechanisms which enable the accurate localisation of moving objects under neural delays. 
 
-I currently work in the [Timing Lab](https://research.qut.edu.au/timinglab/) at QUT with [Hinze Hogendoorn](https://scholar.google.com/citations?user=uOh2Ik0AAAAJ&hl=en&inst=4522501446918153378&oi=ao). Previously, I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at The University of Melbourne under the supervision of [Stefan Bode](https://scholar.google.com/citations?user=nPX76iMAAAAJ&hl=en&oi=ao), [Daniel Feuerriegel](https://scholar.google.com.au/citations?user=XPrVRCoAAAAJ&hl=en) and [Rob Hester](https://scholar.google.com/citations?hl=en&user=vma8HZ0AAAAJ) investigating perceptual decision making and metacognition [[Thesis]](https://minerva-access.unimelb.edu.au/items/56694251-238a-5089-bd49-ca110b040865).
+I work in the [Timing Lab](https://research.qut.edu.au/timinglab/) at QUT (and previously at The University of Melbourne) with [Hinze Hogendoorn](https://scholar.google.com/citations?user=uOh2Ik0AAAAJ&hl=en&inst=4522501446918153378&oi=ao). I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at The University of Melbourne under the supervision of [Stefan Bode](https://scholar.google.com/citations?user=nPX76iMAAAAJ&hl=en&oi=ao), [Daniel Feuerriegel](https://scholar.google.com.au/citations?user=XPrVRCoAAAAJ&hl=en), and [Rob Hester](https://scholar.google.com/citations?hl=en&user=vma8HZ0AAAAJ) investigating perceptual decision making and metacognition [[thesis link]](https://minerva-access.unimelb.edu.au/items/56694251-238a-5089-bd49-ca110b040865).
 
 ___
 
