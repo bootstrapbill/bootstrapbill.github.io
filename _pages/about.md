@@ -18,7 +18,7 @@ ___
 
 1. **Turner**, Sexton, & Hogendoorn (Under Review). Neural mechanisms of visual motion extrapolation. 
 
-2. **Turner**, Blom, & Hogendoorn (Under Review). Visual information is predictively encoded in occipital alpha/low-beta oscillations.
+2. **Turner**, Blom, & Hogendoorn (Under Review). Visual information is predictively encoded in occipital alpha/low-beta oscillations. <a href="../files/Turner_et_al_2023_R2.pdf"><i class="fas fa-file-pdf"></i></a></i></a> <a href="https://osf.io/x8n9p/"><i class="fas fa-code"></i></a> 
 
 3. **Turner** (2022). Perceiving the probable present. *Nature Reviews Psychology*  <a href="https://rdcu.be/cZkFo"><i class="fas fa-file-pdf"></i></a> <a href="https://www.nature.com/articles/s44159-022-00137-w"><i class="fas fa-link"></i></a> 
 
