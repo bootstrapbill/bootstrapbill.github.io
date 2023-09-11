@@ -16,7 +16,7 @@ ___
 
 ### Publications
 
-1. **Turner**, Sexton, & Hogendoorn (Under Review). Neural mechanisms of visual motion extrapolation. 
+1. **Turner**, Sexton, & Hogendoorn (Under Review). Neural mechanisms of visual motion extrapolation. <a href="../files/Neural_motion_extrapolation.pdf"><i class="fas fa-file-pdf"></i></a>
 
 2. **Turner**, Blom, & Hogendoorn (2023). Visual information is predictively encoded in occipital alpha/low-beta oscillations. *The Journal of Neuroscience*. <a href="../files/Turner_et_al_2023_R2.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.jneurosci.org/content/early/2023/06/20/JNEUROSCI.0135-23.2023"><i class="fas fa-link"></i></a> <a href="https://osf.io/x8n9p/"><i class="fas fa-code"></i></a> 
 
