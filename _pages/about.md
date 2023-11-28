@@ -16,7 +16,7 @@ ___
 
 ### Publications
 
-1. **Turner**, Sexton, & Hogendoorn (Under Review). Neural mechanisms of visual motion extrapolation. <a href="../files/Turner_et_al_2023_manuscript_R1_clean.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/tkg3f"><i class="fas fa-link"></i></a>
+1. **Turner**, Sexton, & Hogendoorn (Forthcoming). Neural mechanisms of visual motion extrapolation. *Neuroscience and Biobehavioural Reviews* <a href="../files/Turner_et_al_2023_manuscript_R1_clean.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/tkg3f"><i class="fas fa-link"></i></a>
 
 2. Cottier, **Turner**, Holcombe, & Hogendoorn (2023). Exploring the extent to which shared mechanisms contribute to motion-position illusions. *Journal of Vision*. <a href="../files/Cottier_et_al_2023.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://jov.arvojournals.org/article.aspx?articleid=2792752"><i class="fas fa-link"></i></a> <a href="https://osf.io/s4aqg/?view_only=a7261cdc610549e9a07141c7fffb9e57"><i class="fas fa-code"></i></a>
 
