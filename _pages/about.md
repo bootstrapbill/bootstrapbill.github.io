@@ -16,14 +16,14 @@ ___
 
 ### Publications
 
-1. **Turner**, Sexton, & Hogendoorn (Forthcoming). Neural mechanisms of visual motion extrapolation. *Neuroscience and Biobehavioural Reviews* <a href="../files/Turner_et_al_2023_manuscript_R1_clean.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/tkg3f"><i class="fas fa-link"></i></a>
+1. **Turner**, Sexton, & Hogendoorn (2023). Neural mechanisms of visual motion extrapolation. *Neuroscience and Biobehavioural Reviews* <a href="../files/Turner_et_al_2023_manuscript_R1_clean.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0149763423004530"><i class="fas fa-link"></i></a>
 
 2. Cottier, **Turner**, Holcombe, & Hogendoorn (2023). Exploring the extent to which shared mechanisms contribute to motion-position illusions. *Journal of Vision*. <a href="../files/Cottier_et_al_2023.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://jov.arvojournals.org/article.aspx?articleid=2792752"><i class="fas fa-link"></i></a> <a href="https://osf.io/s4aqg/?view_only=a7261cdc610549e9a07141c7fffb9e57"><i class="fas fa-code"></i></a>
 
 
 3. **Turner**, Blom, & Hogendoorn (2023). Visual information is predictively encoded in occipital alpha/low-beta oscillations. *The Journal of Neuroscience*. <a href="../files/Turner_et_al_2023_R2.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.jneurosci.org/content/early/2023/06/20/JNEUROSCI.0135-23.2023"><i class="fas fa-link"></i></a> <a href="https://osf.io/x8n9p/"><i class="fas fa-code"></i></a>
 
-4. **Turner** (2022). Perceiving the probable present. *Nature Reviews Psychology*  <a href="https://rdcu.be/cZkFo"><i class="fas fa-file-pdf"></i></a> <a href="https://www.nature.com/articles/s44159-022-00137-w"><i class="fas fa-link"></i></a>
+4. **Turner** (2023). Perceiving the probable present. *Nature Reviews Psychology*  <a href="https://rdcu.be/cZkFo"><i class="fas fa-file-pdf"></i></a> <a href="https://www.nature.com/articles/s44159-022-00137-w"><i class="fas fa-link"></i></a>
 
 5. Ko, Feuerriegel, **Turner**, Overhoff, Niessen, Stahl, Hester, Fink, Weiss, & Bode (2022). Divergent effects of absolute evidence magnitude on decision accuracy and confidence in perceptual judgements. *Cognition*. <a href="../files/Ko_et_al_2022.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0010027722001135?dgcid=coauthor"><i class="fas fa-link"></i></a> <a href="https://osf.io/r8vfx/"><i class="fas fa-code"></i></a>
 
