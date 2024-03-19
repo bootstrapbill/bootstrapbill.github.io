@@ -16,7 +16,7 @@ ___
 
 ### Publications
 
-1. Melling, **Turner**, & Hogendoorn (Preprint). Concurrent perception of competing predictions: a “Split-Stimulus Effect”. <a href="../files/Melling_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/4rka8"><i class="fas fa-link"></i></a><a href="https://osf.io/b4m7d/"><i class="fas fa-code"></i></a>
+1. Melling, **Turner**, & Hogendoorn (Preprint). Concurrent perception of competing predictions: a “Split-Stimulus Effect”. <a href="../files/Melling_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/4rka8"><i class="fas fa-link"></i></a> <a href="https://osf.io/b4m7d/"><i class="fas fa-code"></i></a>
 
 2. **Turner**, Sexton, & Hogendoorn (2023). Neural mechanisms of visual motion extrapolation. *Neuroscience and Biobehavioural Reviews* <a href="../files/Turner_et_al_2023_manuscript_R1_clean.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0149763423004530"><i class="fas fa-link"></i></a>
 
