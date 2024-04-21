@@ -16,7 +16,7 @@ ___
 
 ### Publications
 
-1. **Turner**, Sexton, Johnson, Wilson & Hogendoorn (Preprint). Progressive multi-stage extrapolation of predictable motion in human visual cortex”. <a href="../files/Turner_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/sn4a7/"><i class="fas fa-code"></i></a>
+1. **Turner**, Sexton, Johnson, Wilson & Hogendoorn (Preprint). Progressive multi-stage extrapolation of predictable motion in human visual cortex. <a href="../files/Turner_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/sn4a7/"><i class="fas fa-code"></i></a>
 
 2. Melling, **Turner**, & Hogendoorn (Preprint). Concurrent perception of competing predictions: a “Split-Stimulus Effect”. <a href="../files/Melling_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/4rka8"><i class="fas fa-link"></i></a> <a href="https://osf.io/b4m7d/"><i class="fas fa-code"></i></a>
 
