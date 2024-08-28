@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a postdoctoral research fellow in cognitive neuroscience at Queensland University of Technology (QUT). I use neurophysiological, behavioural, and computational approaches to study how our brains make sense of sensory information. My current work focusses on the neural mechanisms which enable the accurate localisation of moving objects under neural delays.
+Hello! I'm a postdoctoral researcher in cognitive neuroscience at Stanford University. My research explores how our brains extract information from patterns of light and sound, in order to achieve complex goals like catching a ball or understanding speech. I combine neural recordings, behavioural experiments, and computational modelling, to unravel the neuro-computational mechanisms underlying these fundamental sensory-guided processes. My current work employs intracranial neural recording techniques to better understand the mechanisms underlying speech comprehension.
 
-I work in the [Timing Lab](https://research.qut.edu.au/timinglab/) at QUT (and previously at The University of Melbourne) with [Hinze Hogendoorn](https://scholar.google.com/citations?user=uOh2Ik0AAAAJ&hl=en&inst=4522501446918153378&oi=ao). I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at The University of Melbourne under the supervision of [Stefan Bode](https://scholar.google.com/citations?user=nPX76iMAAAAJ&hl=en&oi=ao), [Daniel Feuerriegel](https://scholar.google.com.au/citations?user=XPrVRCoAAAAJ&hl=en), and [Rob Hester](https://scholar.google.com/citations?hl=en&user=vma8HZ0AAAAJ) investigating perceptual decision making and metacognition [[thesis link]](https://minerva-access.unimelb.edu.au/items/56694251-238a-5089-bd49-ca110b040865).
+I work in the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliams.sites.stanford.edu/) at Stanford. Previously I worked in the [Timing Lab](https://research.qut.edu.au/timinglab/) at QUT & The University of Melbourne, where I investigated the neural mechanisms of visual motion extrapolation. Prior to that I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at The University of Melbourne, where I investigated perceptual decision making and metacognition [[thesis link]](https://minerva-access.unimelb.edu.au/items/56694251-238a-5089-bd49-ca110b040865).
 
 ![Photo by Anthony Weate/QUT Media](../images/eeg_lab_shot.jpeg)
 
@@ -24,7 +24,7 @@ ___
 
 3. **Turner**, Sexton, Johnson, Wilson, & Hogendoorn (Preprint). Progressive multi-stage extrapolation of predictable motion in human visual cortex. <a href="../files/Turner_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/sn4a7/"><i class="fas fa-code"></i></a>
 
-4. Melling, **Turner**, & Hogendoorn (Preprint). Concurrent perception of competing predictions: a “Split-Stimulus Effect”. <a href="../files/Melling_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/4rka8"><i class="fas fa-link"></i></a> <a href="https://osf.io/b4m7d/"><i class="fas fa-code"></i></a>
+4. Melling, **Turner**, & Hogendoorn (Forthcoming). Concurrent perception of competing predictions: a “Split-Stimulus Effect”. *Journal of Vision* <a href="../files/Melling_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/4rka8"><i class="fas fa-link"></i></a> <a href="https://osf.io/b4m7d/"><i class="fas fa-code"></i></a>
 
 5. **Turner**, Sexton, & Hogendoorn (2023). Neural mechanisms of visual motion extrapolation. *Neuroscience and Biobehavioural Reviews*. <a href="../files/Turner_et_al_2023_manuscript_R1_clean.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0149763423004530"><i class="fas fa-link"></i></a>
 

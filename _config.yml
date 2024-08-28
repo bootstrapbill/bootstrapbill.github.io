@@ -83,11 +83,11 @@ author:
   name             : "William Turner"
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher in Cognitive Neuroscience"
-  location         : "QUT"
+  location         : "Stanford"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.au/citations?user=Q8abUPoAAAAJ&hl=en"
-  email            : "w6.turner@qut.edu.au"
+  email            : "wft@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
