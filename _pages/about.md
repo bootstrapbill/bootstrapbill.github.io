@@ -18,7 +18,7 @@ ___
 
 ### Publications
 
-1. **Turner**, Hogendoorn, & Gwilliams (Forthcoming). On the speed of conscious perception: How soon is now? *Behavioural and Brain Sciences*. <a href="https://osf.io/preprints/psyarxiv/djy36_v1"><i class="fas fa-link"></i></a>
+1. **Turner**, Hogendoorn, & Gwilliams (Forthcoming). On the speed of conscious perception: How soon is now? *Behavioural and Brain Sciences*. <a href="../files/Turner_et_al_BBS_commentary.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/djy36_v1"><i class="fas fa-link"></i></a>
    
 2. Cottier, **Turner**, Chae, Holcombe, & Hogendoorn (2025). No evidence that individual alpha frequency (IAF) represents a mechanism underlying motion-position illusions. *European Journal of Neuroscience*. <a href="../files/Cottier_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.biorxiv.org/content/10.1101/2024.07.17.603862v1"><i class="fas fa-link"></i></a> <a href="https://osf.io/nc9mx/?view_only=db3992fb03b54b8086c94657b7e4b7c1"><i class="fas fa-code"></i></a>
 
@@ -55,6 +55,7 @@ ___
 18. **Turner**, Feuerriegel, Andrejević, Hester, & Bode (2020). Perceptual change-of-mind decisions are sensitive to absolute evidence magnitude. *Cognitive Psychology*. <a href="../files/Turner_et_al_2020.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0010028520300876"><i class="fas fa-link"></i></a> <a href="https://osf.io/sr58p/"><i class="fas fa-code"></i></a>
 
 19.  **Turner**, Johnston, de Boer, Morawetz, & Bode (2017). Multivariate pattern analysis of event-related potentials predicts the subjective relevance of everyday objects. *Consciousness and Cognition*. <a href="../files/Turner_et_al_2017.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S1053810017300417"><i class="fas fa-link"></i></a>
+
 
 
 
