@@ -24,9 +24,9 @@ ___
 
 3. **Turner**, Parvizi, & Gwilliams (2025). Spatiotemporal tracking of phonetic content and probability in the human brain during continuous speech understanding. *CCN2025 2-Page Report*. <a href="https://2025.ccneuro.org/abstract_pdf/Turner_2025_Spatiotemporal_tracking_phonetic_content_probability_human.pdf"><i class="fas fa-file-pdf"></i></a>
 
-4. **Turner**, Kwon, Kim, & Hogendoorn (2025). Rapid Reweighting of Sensory Inputs and Predictions in Visual Perception. *Neural Computation*. <a href="../files/Turner_Kwon_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/98rb6"><i class="fas fa-link"></i></a> <a href="https://github.com/bootstrapbill/position-reset-model"><i class="fas fa-code"></i></a><a href="https://direct.mit.edu/neco/article-abstract/doi/10.1162/neco.a.26/132662/Rapid-Reweighting-of-Sensory-Inputs-and"><i class="fas fa-link"></i></a>
+4. **Turner**, Kwon, Kim, & Hogendoorn (2025). Rapid Reweighting of Sensory Inputs and Predictions in Visual Perception. *Neural Computation*. <a href="../files/Turner_Kwon_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://direct.mit.edu/neco/article-abstract/doi/10.1162/neco.a.26/132662/Rapid-Reweighting-of-Sensory-Inputs-and"><i class="fas fa-link"></i></a> <a href="https://github.com/bootstrapbill/position-reset-model"><i class="fas fa-code"></i></a>
 
-5. **Turner**, Sexton, Johnson, Wilson, & Hogendoorn (2025). Predictable motion is progressively extrapolated across temporally distinct processing stages in the human visual cortex. *PLOS Biology*. <a href="../files/Turner_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/sn4a7/"><i class="fas fa-code"></i></a><a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003189"><i class="fas fa-link"></i></a>
+5. **Turner**, Sexton, Johnson, Wilson, & Hogendoorn (2025). Predictable motion is progressively extrapolated across temporally distinct processing stages in the human visual cortex. *PLOS Biology*. <a href="../files/Turner_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003189"><i class="fas fa-link"></i></a> <a href="https://osf.io/sn4a7/"><i class="fas fa-code"></i></a>
 
 6. Melling, **Turner**, & Hogendoorn (2024). Concurrent perception of competing predictions: a “Split-Stimulus Effect”. *Journal of Vision*. <a href="../files/Melling_et_al_2024.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://osf.io/preprints/psyarxiv/4rka8"><i class="fas fa-link"></i></a> <a href="https://osf.io/b4m7d/"><i class="fas fa-code"></i></a>
 
@@ -55,6 +55,7 @@ ___
 18. **Turner**, Feuerriegel, Andrejević, Hester, & Bode (2020). Perceptual change-of-mind decisions are sensitive to absolute evidence magnitude. *Cognitive Psychology*. <a href="../files/Turner_et_al_2020.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0010028520300876"><i class="fas fa-link"></i></a> <a href="https://osf.io/sr58p/"><i class="fas fa-code"></i></a>
 
 19.  **Turner**, Johnston, de Boer, Morawetz, & Bode (2017). Multivariate pattern analysis of event-related potentials predicts the subjective relevance of everyday objects. *Consciousness and Cognition*. <a href="../files/Turner_et_al_2017.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S1053810017300417"><i class="fas fa-link"></i></a>
+
 
 
 
