@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a postdoctoral researcher at Stanford University. My research explores how our brains transform sensory signals, like patterns of light or sound, into abstract physical or linguistic understanding, to achieve complex behaviours like catching a ball or comprehending speech. I combine neural recordings, behavioural experiments, and computational modelling, to unravel the neuro-computational mechanisms underlying these fundamental, sensory-guided processes. In my current work, I'm using OPM-MEG and intracranial neural recordings to study the mechanisms underlying naturalistic speech comprehension.
+Hello! I'm a postdoctoral researcher at Stanford University. My research investigates how the brain generates sensory predictions, and how these predictions shape perception. I'm interested in understanding the incredible complexity that underlies otherwise mundane-seeming behaviours (e.g., catching a ball, or understanding what someone is saying). I combine neural recordings, behavioural experiments, and computational modelling, to unravel the neuro-computational mechanisms underlying these fundamental, sensory-guided behaviours. In my current work, I'm using OPM-MEG and intracranial neural recordings to study the mechanisms underlying real-world speech comprehension.
 
 I work in the [Gwilliams Laboratory of Speech Neuroscience](https://gwilliams.sites.stanford.edu/) at Stanford. Previously I worked in the [Timing Lab](https://research.qut.edu.au/timinglab/) at QUT & The University of Melbourne, where I investigated the neural mechanisms of visual motion extrapolation. Prior to that I completed my PhD in the [Decision Neuroscience Lab](https://dlab.unimelb.edu.au/) at The University of Melbourne, where I investigated perceptual decision making and metacognition [[thesis link]](https://minerva-access.unimelb.edu.au/items/56694251-238a-5089-bd49-ca110b040865).
 
@@ -55,6 +55,7 @@ ___
 18. **Turner**, Feuerriegel, Andrejević, Hester, & Bode (2020). Perceptual change-of-mind decisions are sensitive to absolute evidence magnitude. *Cognitive Psychology*. <a href="../files/Turner_et_al_2020.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S0010028520300876"><i class="fas fa-link"></i></a> <a href="https://osf.io/sr58p/"><i class="fas fa-code"></i></a>
 
 19.  **Turner**, Johnston, de Boer, Morawetz, & Bode (2017). Multivariate pattern analysis of event-related potentials predicts the subjective relevance of everyday objects. *Consciousness and Cognition*. <a href="../files/Turner_et_al_2017.pdf"><i class="fas fa-file-pdf"></i></a> <a href="https://www.sciencedirect.com/science/article/pii/S1053810017300417"><i class="fas fa-link"></i></a>
+
 
 
 
